@@ -36,5 +36,5 @@ const styles = StyleSheet.create({
   menu: { flexDirection: 'row', justifyContent: 'space-around', paddingVertical: 10, backgroundColor: '#f2f2f2' },
   btn: { paddingHorizontal: 10, paddingVertical: 6, backgroundColor: '#007AFF', borderRadius: 6 },
   btnText: { color: '#fff', fontWeight: '600' },
-  screen: { flex: 1, padding: 13 },
+  screen: { flex: 1, padding: 12 },
 });
